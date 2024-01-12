@@ -2,7 +2,7 @@
 int main()
 {
 
-    int num[10] = {44, 25, 8, 7, 5}, count = 5, i, new = 100, j, temp;
+    int num[10] = {44, 25, 8, 7, 5}, count = 5, i, new = 6, j, temp;
 
     for (i = 0; i < count; i++)
     {
